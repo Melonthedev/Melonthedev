@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/badge/Website-brightgreen)](https://Melonthedev.wtf)
 [![MelonClient](https://img.shields.io/badge/MelonClient-red)](https://melonclient.melonthedev.wtf)
 [![Discord](https://img.shields.io/badge/Discord-melon.dev-blue?logo=Discord)]()
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Melonthedev.Melonthedev&left_color=gray&right_color=cyan)
-
 <br>
 
 [![Melonthedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melonthedev&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=120,0d1117,c691e9&icon_color=00edff&border_radius=0.0)]() 
